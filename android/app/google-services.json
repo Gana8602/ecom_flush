@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95268240158",
+    "project_id": "crb-ecom",
+    "storage_bucket": "crb-ecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95268240158:android:96d4a6d14041b7b8d5670f",
+        "android_client_info": {
+          "package_name": "com.crb.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95268240158-5nivn958jktctahlffha6joa9r2firus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Wo6cYcPmYlYU4M0BbGyLLDgqG1pP2OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95268240158-5nivn958jktctahlffha6joa9r2firus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
